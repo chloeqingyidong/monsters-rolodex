@@ -27,12 +27,14 @@ class App extends Component {
           skill1: '· wrote a number of tests against a pre-existing web-based app with Jasmine',
           skill2: '· tested the underlying business logic of the app as well as the event handling and DOM manipulation'
         },
+        /*
         {
           name: 'SPA -- What are you interested in today? (07/2019)',
           id: 4,
           skill1: 'skill1',
           skill2: 'skill2'
         },
+        */
         {
           name: 'REACT App -- Monsters Rolodex (07/2019)',
           id: 5,
